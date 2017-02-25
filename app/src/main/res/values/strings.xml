@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dongengin</string>
+    <string name="daftar">Daftar Cerita</string>
+    <string name="lokal">Cerita Indonesia</string>
+    <string name="manca">Cerita Mancanegara</string>
+</resources>
