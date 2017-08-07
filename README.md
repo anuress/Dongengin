@@ -1,3 +1,4 @@
 # Dongengin
 Dongengin - apps android random berisi dongeng
-Will be rewriten soon.
+
+# Will be rewriten soon.
